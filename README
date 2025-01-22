@@ -1,0 +1,16 @@
+Explicado de Funciones
+
+
+```function agregarAmigo()```//es la encargada de tomar el valor del input y agragarlo a una lista para que luego se muestre en pantalla el valor ingresado, ademas este valor pasa por un proceso, el cual tiene que no ser
+//vacio (" ") y no tiene que contener espacios en blancos, asi solo ponemos el nombre y nada mas.
+//por ejemplo, agrego Ramiro, Lautaro y Marcos y muestra:
+//Ramiro
+//Lautaro
+//Marcos
+
+```function sortearAmigo()```//: es la encargada de elegir un numero aleatorio dependiendo el largo de la lista anterior y dependiendo de que numero haya generado usarlo para ver la posicion de la lista que es, dando asi
+al amigo secreto, ademas vacia la lista de amigos y genera un texto diciendo quien es el amigo secreto.
+
+```function limpiarCaja()```//: es la que se encarga de limpear el input cada vez que se agrega un nombre a la lista.
+
+```function asignarTextoId(elemento, texto)```//: es la encargada de asignar el texto de un id que le pasemos, en el codigo se usa para modificar el h2 con id tituloGanador y cambiarlo a el nombre del amigo secreto
