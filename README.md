@@ -10,9 +10,9 @@ Una aplicación web interactiva que permite gestionar el sorteo de amigos secret
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Almacenamiento:** Local Storage del navegador
-- **Control de Versiones:** Git y GitHub
+- **HTML5:** 
+- **CSS3:**
+- **JavaScript** 
 
 ## 🚀 Cómo Usar
 
